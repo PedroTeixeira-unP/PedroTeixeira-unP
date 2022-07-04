@@ -4,8 +4,9 @@
 - 📫 How to reach me on https://www.linkedin.com/in/pedro-teixeira-unp/ ...
 
 Worked At
-- GEMA -  Backend Developer
-- MINERVA - WordPress Developer
+- GEMA -  FullStack Developer (current)
 - Original Courtesy - Fullstack Developer
+- MINERVA - WordPress Developer
+- GEMA -  Backend Developer
 
 
