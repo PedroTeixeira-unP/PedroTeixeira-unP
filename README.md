@@ -10,4 +10,3 @@ Worked At
 - Gema -  Backend Developer
 
 ![](https://raw.githubusercontent.com/PedroTeixeira-unP/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/PedroTeixeira-unP/github-stats/master/generated/overview.svg#gh-light-mode-only)
