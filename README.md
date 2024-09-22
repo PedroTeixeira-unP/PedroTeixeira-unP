@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @PedroTeixeira-unP
-- 🌱 I’m from Portugal ...
-- 📫 Bachelor degree at UTAD in Communication and Multimedia 
-- 📫 How to reach me on https://www.linkedin.com/in/pedro-teixeira-unp/ ...
+```bash
+C:\Users\PedroTeixeira-unP> companies -a
 
-Worked At
-- Immera -  FullStack Developer (Current)
-- Original Courtesy - Fullstack Developer
-- Minerva - WordPress Developer
-- Gema -  Backend Developer
+Companies: 10.240.XX.XX --- 0x4
+  Internet Address      Physical Address      Type
+  Immera                FullStack Developer   *
+  Original Courtesy     FullStack Developer   Done
+  Minerva               WordPress Developer   Done
+  Gema Digital          Backend Developer     Done
+
+C:\Users\PedroTeixeira-unP> social --specific linkedin
+
+Linkedin:
+  Connection-specific............: https://www.linkedin.com/in/pedro-teixeira-unp/
+  Status.........................: active
+
+C:\Users\PedroTeixeira-unP>
